@@ -1,0 +1,52 @@
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\scripts\scr_nn_create\scr_nn_create.gml
+Converted description /// @description scr_nn_create()
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\scripts\scr_nn_initialize\scr_nn_initialize.gml
+Converted description /// @description scr_nn_initialize()
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\scripts\scr_nn_feedforward\scr_nn_feedforward.gml
+Converted description /// @description scr_nn_feedforward()
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\scripts\mutate\mutate.gml
+Converted description /// @description mutate(x, rate)/// @param x
+/// @param  rate
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\scripts\tanh\tanh.gml
+Converted description /// @description tanh(x)/// @param x
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\scripts\normalize\normalize.gml
+Converted description /// @description normalize(input, min, max)/// @param input
+/// @param  min
+/// @param  max
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_arrowhead\Create_0.gml
+Converted description /// @description Initialize the neural net
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_arrowhead\Alarm_0.gml
+Converted description /// @description Delay compute fitness
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_arrowhead\Other_12.gml
+Converted description /// @description Reset
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_arrowhead\Other_11.gml
+Converted description /// @description Mutate
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_arrowhead\Other_10.gml
+Converted description /// @description Compute Fitness
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_nn_main\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_nn_main\Other_10.gml
+Converted description /// @description Train
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_nn_main\Draw_0.gml
+Converted description /// @description Draw fitness
+
+Converting GML script: C:\Users\kat\OneDrive\Documents\GitHub\simple_nn_in_gms\NN Guide GMS.gmx\mvc\objects\obj_nn_main\KeyPress_27.gml
+Converted description /// @description Reset
+
+Game speed set to 30
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
